@@ -1,0 +1,16 @@
+/* Custom CSS Code 
+=================================================*/
+
+/* this logo width & height , you can change it depend on your logo */
+.logo img {
+	width:100%;
+	height:65px;
+}
+
+@media only screen and (max-width: 1024px) {
+
+#wrap.boxed .top-bar, body.under-construction header, #wrap.boxed .footer-down {
+border-radius: 0 !important;
+}
+
+}
